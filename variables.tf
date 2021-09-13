@@ -41,7 +41,7 @@ variable "target_name" {
 }
 
 variable "certificate_arn" {
-    default = "arn:aws:acm:eu-central-1:996548385171:certificate/c81081ec-db21-4b04-97bd-7bbefba883f3"
+    default = " "
 }
 
 variable "sgname" {
