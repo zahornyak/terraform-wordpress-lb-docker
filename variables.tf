@@ -48,6 +48,13 @@ variable "sgname" {
     default = "testing-task"
 }
 
+variable "AWS_ACCESS_KEY_ID" {
+    default = "AKIAHCSEBJCJKADN"
+}
+variable "AWS_SECRET_KEY_ID" {
+    default = "dsmbfFGDGDdssnklFGD"
+}
+
 variable "data_instance" {
     default = "i-0e8615ce123e9749c"
 }
